@@ -1,6 +1,8 @@
 # AzureDevops-spring-framework-petclinic-monolithic
 Spring-framework-petclinic-monolithic for AzureDevops article
 
+[![Build Status](https://dev.azure.com/cmakkaya/akkaya-app-project/_apis/build/status%2Fcmakkaya.AzureDevops-sample-pipelines-java-code?branchName=main)](https://dev.azure.com/cmakkaya/akkaya-app-project/_build/latest?definitionId=12&branchName=main)
+
 # Spring PetClinic Sample Application
 
 [![Java CI with Maven](https://github.com/spring-petclinic/spring-framework-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-petclinic/spring-framework-petclinic/actions/workflows/maven-build.yml)
